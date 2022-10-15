@@ -14,6 +14,9 @@ namespace Linku
                 new Ticket(){Status = Status.Old, Title = "T3"},
                 new Ticket(){Status = Status.Old, Title = "T4"},
                 new Ticket(){Status = Status.Resolved, Title = "T5"},
+                new Ticket(){Status = Status.Resolved, Title = "T5"},
+                new Ticket(){Status = Status.Resolved, Title = "T5"},
+                new Ticket(){Status = Status.Resolved, Title = "T5"},
             };
 
 
